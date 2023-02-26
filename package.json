@@ -1,5 +1,6 @@
 {
   "name": "extjs-typings-6.2.0",
   "version": "1.0.0",
+  "types": "src/index.ts",
   "main": "src/index.ts"
 }
