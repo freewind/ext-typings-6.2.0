@@ -1,6 +1,6 @@
 {
   "name": "extjs-typings-6.2.0",
   "version": "1.0.0",
-  "types": "src/index.ts",
+  "types": "src/ext-6.2.0-classic-all-no-jsdocs.d.ts",
   "main": "src/index.ts"
 }
